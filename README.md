@@ -1,2 +1,2 @@
 # Python_Showcase
-This is a sample of the work I am capable of doing in Python.
+Contains an NLP class project (with Josiah Gottfried).
